@@ -1,0 +1,7 @@
+- Initial attempts with Q-Learning and why it wasn't able to solve.
+- DQN unable to solve majority of time.
+- Changes to action space
+- Adding Reward Shaping
+- PerformanceBasedEpsilonCallback
+- Reasons to switch to A2c
+- Vanialla model performance vs parameter changes / wrappers
